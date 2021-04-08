@@ -12,10 +12,6 @@ html{--antd-wave-shadow-color:#1890ff}
 #nprogress .bar{background:#1890ff}
 #nprogress .peg{-webkit-box-shadow:0 0 10px #1890ff,0 0 5px #1890ff;box-shadow:0 0 10px #1890ff,0 0 5px #1890ff}
 #nprogress .spinner-icon{border-top-color:#1890ff;border-left-color:#1890ff}
-.project-list .card-title a[data-v-11e4d602]:hover{color:#1890ff}
-.project-list .project-item a[data-v-11e4d602]:hover{color:#1890ff}
-.members a:hover span[data-v-11e4d602]{color:#1890ff}
-.page-header-wrapper-grid-content-main .account-center-team .members a:hover span[data-v-4cf39e83]{color:#1890ff}
 a[data-v-1cd0b9b6]{color:#1890ff}
 a[data-v-1cd0b9b6]:hover{color:#40a9ff}
 a[data-v-1cd0b9b6]:active{color:#096dd9}
@@ -72,6 +68,10 @@ html[data-v-0d752822]{--antd-wave-shadow-color:#1890ff}
 .ant-click-animating-node[data-v-0d752822],[ant-click-animating-without-extra-node=true][data-v-0d752822]:after{-webkit-box-shadow:0 0 0 0 #1890ff;box-shadow:0 0 0 0 #1890ff}
 @-webkit-keyframes waveEffect-data-v-0d752822{to{-webkit-box-shadow:0 0 0 #1890ff;box-shadow:0 0 0 #1890ff}}
 @keyframes waveEffect-data-v-0d752822{to{-webkit-box-shadow:0 0 0 #1890ff;box-shadow:0 0 0 #1890ff}}
+.project-list .card-title a[data-v-17a6eb1b]:hover{color:#1890ff}
+.project-list .project-item a[data-v-17a6eb1b]:hover{color:#1890ff}
+.members a:hover span[data-v-17a6eb1b]{color:#1890ff}
+.page-header-wrapper-grid-content-main .account-center-team .members a:hover span[data-v-133c5abc]{color:#1890ff}
 .ant-fullcalendar-value:hover{background:#e6f7ff}
 .ant-fullcalendar-value:active{background:#1890ff}
 .ant-fullcalendar-month-panel-current-cell .ant-fullcalendar-value,.ant-fullcalendar-today .ant-fullcalendar-value{-webkit-box-shadow:0 0 0 1px #1890ff inset;box-shadow:inset 0 0 0 1px #1890ff}
@@ -275,4 +275,4 @@ html[data-v-0d752822]{--antd-wave-shadow-color:#1890ff}
 .ant-input-number-handler:hover .ant-input-number-handler-down-inner,.ant-input-number-handler:hover .ant-input-number-handler-up-inner{color:#40a9ff}
 .ant-input-number-focused,.ant-input-number:hover{border-color:#40a9ff}
 .ant-input-number-focused{-webkit-box-shadow:0 0 0 2px rgba(24,144,255,.2);box-shadow:0 0 0 2px rgba(24,144,255,.2)}
-.user-layout-login .user-login-other .item-icon[data-v-7a26478e]:hover{color:#1890ff}
+.user-layout-login .user-login-other .item-icon[data-v-14357fde]:hover{color:#1890ff}
