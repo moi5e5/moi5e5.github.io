@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-es-MX-global"],{5820:function(s,u,e){"use strict";e.r(u),u["default"]={submit:"Submit",save:"Save","submit.ok":"Submit successfully","save.ok":"Saved successfully"}}}]);
